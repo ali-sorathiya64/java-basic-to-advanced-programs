@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Vidhikara
+ * 
  */
 public class palindrome {
 
