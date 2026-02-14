@@ -1,6 +1,6 @@
 /**
  *
- * @author Divyanshu
+ *
  */
 import java.util.Scanner;
 
