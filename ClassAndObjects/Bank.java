@@ -31,8 +31,7 @@ class BankAccount {
 
 public class Bank {
 
-	public static void main(String[] arg) {
-		BankAccount account1 = new BankAccount();
+	public static void main(String[] args) {		BankAccount account1 = new BankAccount();
 		account1.setAccountNumber(456);
 		account1.deposit(1000);
 		account1.status();
